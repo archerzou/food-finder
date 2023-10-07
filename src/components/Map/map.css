@@ -1,0 +1,22 @@
+.map-container {
+    height: 600px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.popup-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.popup-description {
+  margin-bottom: 5px;
+}
+
+.popup-description b {
+  font-weight: bold;
+  margin-right: 5px;
+}
+  

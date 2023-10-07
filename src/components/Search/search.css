@@ -1,0 +1,30 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+  
+.input-field {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.submit-button {
+    color:#181717;
+    background-color: transparent;
+    border: none;
+    padding: 10px 2px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    color: #0e0aec;
+  }
+  
+  
