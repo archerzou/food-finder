@@ -1,5 +1,3 @@
-# Food-Truck-Finder
-
 This App allows users to find Food Trucks in the San Francisco Area, It provides information about food trucks location and address. The App uses Vite/React.
 
 In the project directory, you can run:
